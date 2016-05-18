@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding/client.py=utf-8
+encoding/clientwindow.py=utf-8
+encoding/config.py=utf-8
+encoding/database.py=utf-8
+encoding/gtalk.py=utf-8
+encoding/login.py=utf-8
+encoding/logincheck.py=utf-8
+encoding/main.py=UTF-8
+encoding/server.py=utf-8
+encoding/serverwindow.py=utf-8
